@@ -1,0 +1,7 @@
+EtlFileName,Scenario,Iteration,Browser,DateStamp,TimeStamp,MeasureSet,Measure,Result
+chrome_munittest_0_cpuUsage_20180528_003859,munittest,0,chrome,20180528,003859,cpuUsage,CPU Total Utilization %,8.252
+chrome_munittest_1_cpuUsage_20180528_004137,munittest,1,chrome,20180528,004137,cpuUsage,CPU Total Utilization %,7.840
+chrome_munittest_2_cpuUsage_20180528_004322,munittest,2,chrome,20180528,004322,cpuUsage,CPU Total Utilization %,7.856
+edge_munittest_0_cpuUsage_20180528_003950,munittest,0,edge,20180528,003950,cpuUsage,CPU Total Utilization %,7.896
+edge_munittest_1_cpuUsage_20180528_004043,munittest,1,edge,20180528,004043,cpuUsage,CPU Total Utilization %,6.662
+edge_munittest_2_cpuUsage_20180528_004228,munittest,2,edge,20180528,004228,cpuUsage,CPU Total Utilization %,6.991

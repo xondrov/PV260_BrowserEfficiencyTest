@@ -747,6 +747,7 @@ namespace BrowserEfficiencyTest
             AddScenario(new BrainPopAvalanches());
             AddScenario(new RedditSurfaceSearch());
             AddScenario(new Idle());
+            AddScenario(new MUnitTest());
         }
 
         private void AddScenario(Scenario scenario)
